@@ -1,0 +1,30 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/3D Technical Implimentation/abandoned_italy/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"E:/3D Technical Implimentation/abandoned_italy/Content/italy/levels/blockout.umap",
+				"E:/3D Technical Implimentation/abandoned_italy/Content/italy/assets/textures/short_barrel/T_ShortBarrel_OcclusionRoughnessMetallic.uasset",
+				"E:/3D Technical Implimentation/abandoned_italy/Content/italy/assets/materials/M_BaseBasic.uasset",
+				"E:/3D Technical Implimentation/abandoned_italy/Content/italy/assets/materials/MI_ShortBarrel.uasset",
+				"E:/3D Technical Implimentation/abandoned_italy/Content/italy/assets/textures/short_barrel/T_ShortBarrel_BaseColor.uasset",
+				"E:/3D Technical Implimentation/abandoned_italy/Content/italy/levels/_GENERATED/jacktrotter/Box_75CA4141.uasset",
+				"E:/3D Technical Implimentation/abandoned_italy/Content/italy/assets/meshes/SM_Short_Barrel.uasset",
+				"E:/3D Technical Implimentation/abandoned_italy/Content/italy/levels/_GENERATED/jacktrotter/Stairs_F41570C2.uasset",
+				"E:/3D Technical Implimentation/abandoned_italy/Content/italy/assets/textures/short_barrel/T_ShortBarrel_Normal.uasset",
+				"E:/3D Technical Implimentation/abandoned_italy/Content/italy/cinematics/LS_test.uasset",
+				"E:/3D Technical Implimentation/abandoned_italy/Content/italy/cinematics/LS_shot1.uasset",
+				"E:/3D Technical Implimentation/abandoned_italy/Content/italy/cinematics/LS_shot2.uasset",
+				"G:/abandoned_italy/Content/italy/levels/blockout.umap",
+				"D:/UE_5.4/Engine/Content/BasicShapes/BasicShapeMaterial.uasset",
+				"G:/abandoned_italy/Content/italy/assets/meshes/SM_Cat.uasset",
+				"E:/3D Technical Implimentation/abandoned_italy/Content/italy/assets/meshes/M_Mannequin.uasset",
+				"E:/3D Technical Implimentation/abandoned_italy/Content/italy/assets/materials/M_Base.uasset",
+				"E:/3D Technical Implimentation/abandoned_italy/Content/italy/assets/materials/M_BaseSimple.uasset"
+			]
+		}
+	]
+}
