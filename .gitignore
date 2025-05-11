@@ -95,3 +95,5 @@ Build/Android/res/*/*
 # Ignore plugins binaries on deep subfolders
 Plugins/**/Binaries/*
 Plugins/**/Intermediate/*
+abandoned_italy/Saved/AutoScreenshot.png
+abandoned_italy/Saved/AutoScreenshot.png
