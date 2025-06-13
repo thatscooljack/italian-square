@@ -22,6 +22,10 @@
 		{
 			"Name": "AlembicHairImporter",
 			"Enabled": true
+		},
+		{
+			"Name": "MovieRenderPipeline",
+			"Enabled": true
 		}
 	]
 }
